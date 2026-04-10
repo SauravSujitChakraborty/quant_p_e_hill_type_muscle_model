@@ -14,11 +14,11 @@ $$ (F + a)(v + b) = (F_{max} + a)b $$
 
 where,
 
-a and b: Empirical constants (curvature of the muscle)
+$a$ and $b$: Empirical constants (curvature of the muscle)
 
-F_{max}: Maximum isometric force
+$F_{max}$: Maximum isometric force
 
-Power (P): Calculated as :-
+Power ($P$): Calculated as :-
 
 $$ P = F \cdot v $$
 
