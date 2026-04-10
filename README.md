@@ -24,6 +24,6 @@ $$ P = F \cdot v $$
 
 The resulting Power-Velocity curve is parabolic, proving that peak performance occurs at a specific intermediate velocity, rather than at maximum strength or maximum speed.
 
-The Trade-off: As shortening velocity increases, the number of active cross-bridges in the muscle decreases, causing force to drop hyperbolically. Maximum power is the "sweet spot" where these two inverse variables produce the highest product ($P = F \cdot v$).
+The Trade-off: As shortening velocity increases, the number of active cross-bridges in the muscle decreases, causing force to drop hyperbolically. Maximum power is the "sweet spot" where these two inverse variables produce the highest product  ($P = F \cdot v$).
 
 Curvature($a/F_{max}$): Typically ranges from 0.1 to 0.35. A lower value indicates a more "curved" relationship, common in slow-twitch fibers, while a higher value represents fast-twitch efficiency.
