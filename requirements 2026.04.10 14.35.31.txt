@@ -1,0 +1,4 @@
+NumPy (numpy):
+Used for np.linspace to create the continuous range of shortening velocities.
+Used for the vectorized calculation of Hill's Hyperbolic Equation and Power.
+Used for np.argmax to identify the exact index of the optimal performance peak.
